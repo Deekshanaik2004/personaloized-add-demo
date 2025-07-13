@@ -1,0 +1,12 @@
+{
+  "name": "personalized-add-demo",
+  "version": "1.0.0",
+  "description": "A demonstration system that shows how personalized advertisements work using machine learning to track user behavior and display tailored ads.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
