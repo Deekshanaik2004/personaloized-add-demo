@@ -2,7 +2,7 @@
 
 A demonstration system that shows how personalized advertisements work using machine learning to track user behavior and display tailored ads.
 
-## 🎯 Overview
+##  Overview
 
 This demo system simulates a real-world personalized advertising platform where:
 - Users interact with content (clicks, views, time spent)
@@ -10,7 +10,7 @@ This demo system simulates a real-world personalized advertising platform where:
 - Personalized ads are displayed based on predicted interests
 - All interactions are tracked and stored for continuous learning
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -22,7 +22,7 @@ This demo system simulates a real-world personalized advertising platform where:
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
-## 🚀 Features
+##  Features
 
 ### Frontend (React)
 - Interactive content browsing interface
@@ -47,7 +47,7 @@ This demo system simulates a real-world personalized advertising platform where:
 - Ad inventory and performance metrics
 - ML model predictions and accuracy tracking
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 personalized-add-demo/
@@ -71,7 +71,7 @@ personalized-add-demo/
 └── docs/                   # Documentation
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **Backend**: Python Flask, RESTful APIs
@@ -79,7 +79,7 @@ personalized-add-demo/
 - **Database**: MongoDB
 - **Deployment**: Docker (optional)
 
-## 🎮 Demo Flow
+##  Demo Flow
 
 1. **User Registration**: Create a demo user profile
 2. **Content Browsing**: Browse through different content categories
@@ -89,7 +89,7 @@ personalized-add-demo/
 6. **Personalized Ads**: Relevant ads are displayed based on predictions
 7. **Performance Tracking**: Ad performance and user engagement metrics
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js (v16+)
@@ -123,7 +123,7 @@ personalized-add-demo/
    - Install and start MongoDB
    - The app will automatically create necessary collections
 
-## 📊 ML Model Details
+##  ML Model Details
 
 ### Features Used
 - Click frequency per category
@@ -144,7 +144,7 @@ personalized-add-demo/
 - Training data: Synthetic user behavior data
 - Retraining: Weekly with new interaction data
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables
 ```bash
@@ -157,7 +157,7 @@ ML_MODEL_PATH=./ml_models/user_classifier.pkl
 REACT_APP_API_URL=http://localhost:5000/api
 ```
 
-## 📈 Analytics Dashboard
+##  Analytics Dashboard
 
 The system includes a comprehensive analytics dashboard showing:
 - User engagement metrics
@@ -166,7 +166,7 @@ The system includes a comprehensive analytics dashboard showing:
 - Revenue and conversion rates
 - User behavior insights
 
-## 🔒 Privacy & Ethics
+##  Privacy & Ethics
 
 This is a **demo system** for educational purposes. In a real-world scenario:
 - Implement proper data privacy controls
@@ -175,7 +175,7 @@ This is a **demo system** for educational purposes. In a real-world scenario:
 - Provide clear opt-out mechanisms
 - Regular privacy audits and compliance checks
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -183,11 +183,11 @@ This is a **demo system** for educational purposes. In a real-world scenario:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📝 License
+##  License
 
 This project is for educational purposes. Please ensure compliance with local laws and regulations when implementing similar systems.
 
-## 🆘 Support
+##  Support
 
 For questions or issues:
 - Check the documentation in `/docs`
